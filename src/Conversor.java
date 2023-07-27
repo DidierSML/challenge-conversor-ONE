@@ -115,7 +115,7 @@ public class Conversor {
                     System.exit(0);
                 }
 
-                double result = 0;
+                double result;
 
                 if (option == 0){
                     result = (value * 9/5) + 32;
