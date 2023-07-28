@@ -10,8 +10,9 @@
 
 </div>
 
-- El desarrollo de este challenge es parte del proceso formativo como desarrollador en el programa Oracle ONE - Alura. 
-  El cual tiene como objetivo generar un Conversor que ejecute dos funciones:
+- El desarrollo de este challenge es parte del proceso formativo como desarrollador en el programa Oracle ONE - Alura y fue llevado a
+  cabo mediante el uso de Java como lenguaje de programación y Java Swing como biblioteca para construir la interfaz gráfica.
+- Este proyecto tiene como objetivo generar un Conversor que ejecute dos funciones:
 1) Ejercer conversion de divisas 💲:
      "Para este caso se asignó como moneda estandar a convertir el Peso Colombiano COP, el cual, tendrá la posibilidad de
       ser convertido a las siguientes monedas":
